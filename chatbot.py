@@ -22,6 +22,6 @@ Print("Greetings lovely bags of mostly water")
 
     	print('well',name,'could you tell me something you like?')
 	like = input('could you tell me something you like: ')
-	
+	print("really, that is so interesting.)
     print("Well, I better be going, its nice talking to you.")
     print("See you later. ")
