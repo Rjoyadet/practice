@@ -19,5 +19,9 @@ Print("Greetings lovely bags of mostly water")
         print("I do too, ironic isn't it?")
     else
         print("Me, not so much, ironic isn't it")
+
+    	print('well',name,'could you tell me something you like?')
+	like = input('could you tell me something you like: ')
+	
     print("Well, I better be going, its nice talking to you.")
     print("See you later. ")
