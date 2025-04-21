@@ -25,7 +25,9 @@ Print("Greetings lovely bags of mostly water")
 	print("really, that is so interesting.)
 
     print("Whats the weather like outside?)
-	  if == 'sunny'
+	  if == "sunny"
 	  print("oh, that sounds lovely!")
+	  elif === "overcast"
+	  print("Oh okay, I prefer sunshine.")
     print("Well, I better be going, its nice talking to you.")
     print("See you later. ")
