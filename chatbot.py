@@ -29,6 +29,7 @@ Print("Greetings lovely bags of mostly water")
 	  	print("oh, that sounds lovely!")
 	  elif === "overcast"
 	  	print("Oh okay, I prefer sunshine.")
-
+	  elif === "stormy"
+		print("oooh, that sounds scary!")
     print("Well, I better be going, its nice talking to you.")
     print("See you later. ")
