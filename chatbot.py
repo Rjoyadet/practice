@@ -31,5 +31,9 @@ Print("Greetings lovely bags of mostly water")
 	  	print("Oh okay, I prefer sunshine.")
 	  elif === "stormy"
 		print("oooh, that sounds scary!")
+	  else :
+		  print("too cold, I prefere sunny weather")
+
+	print ("How is it like having ears?")
     print("Well, I better be going, its nice talking to you.")
     print("See you later. ")
