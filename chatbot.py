@@ -1,5 +1,7 @@
 
 Print("Greetings lovely bags of mostly water")
+
+#awkward opening
     awkward = input("Did you understand the reference")
     if no == 'no' or 'um'
         print("Well... this is awkward")
