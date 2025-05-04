@@ -39,6 +39,6 @@ Print("Greetings lovely bags of mostly water")
 	print ("How is it like having ears?")
 
 #mst3k 
-print("okay let's try this...)
+print("okay let's try this...")
     print("Well, I better be going, its nice talking to you.")
     print("See you later. ")
