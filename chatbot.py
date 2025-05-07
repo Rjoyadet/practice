@@ -41,7 +41,9 @@ Print("Greetings lovely bags of mostly water")
 #mst3k 
 print("okay let's try this...")
 
+	host = "them"
 	print("Do you prefer Mike or Joel?")
+print ("I like, " + host + " as well!")
 		if == "Mike"
 			print("yes, he's funny!")
 		elif == "Joel"
