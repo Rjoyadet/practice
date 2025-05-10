@@ -1,0 +1,40 @@
+ 
+
+import json 
+
+json_string = '''
+
+{ 
+    "robots" : 
+    {
+    "id": 1,
+    "name" : "Cambot",
+    "age" : 35,
+    "working": true
+    },
+   
+    {
+    "id": 2,
+    "name" : "Gypsy",
+    "age": 38,
+    "working": true
+    }
+
+    {
+    "id" : 3,
+    "name" : "Tom Servo",
+    "age" : 32,
+    "working" : true
+    }
+
+    {
+    "id": 4,
+    "name": "Crooooow!",
+    "age": 45,
+    "working": false
+    }
+ ]}
+
+ data = json.loads(json_string)
+ print (data)
+ '''
