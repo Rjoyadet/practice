@@ -57,6 +57,8 @@ print ("I like, " + host + " as well!")
 episode = "favorite"
 	print ("Which episode is your favorite?")
 	print(" " + favorite + " is my favorite episode as well!")
-
+robots = "nicest"
+	print ("Which robot do you like the most")
+	print (" " + nicest + "is not my favorite") 
     print("Well, I better be going, its nice talking to you.")
     print("See you later. ")
