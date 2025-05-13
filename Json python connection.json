@@ -33,6 +33,12 @@ json_string = '''
     "age": 45,
     "working": false
     }
+     {
+      "id": 4,
+      "name": "GPC",
+      "age": 3,
+      "working": false
+     }
  ]}
 
  data = json.loads(json_string)
