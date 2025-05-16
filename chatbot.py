@@ -54,7 +54,7 @@ print ("I like, " + host + " as well!")
 			print("I like the babysitter as well!")
 		else 
 			print("ohhh, um. Nevermind")
-episode = "favorite"
+input: episode = "favorite"
 	print ("Which episode is your favorite?")
 	print(" " + favorite + " is my favorite episode as well!")
 robots = "nicest"
